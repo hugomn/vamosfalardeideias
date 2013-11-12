@@ -1,4 +1,5 @@
-vamosfalardeideias
+Vamos Falar de ideias
 ==================
 
-Código fonte de tema do blog www.vamosfalardeideias.com
+Código fonte do tema do blog Vamos Falar de Ideias.
+http://www.vamosfalardeideias.com
