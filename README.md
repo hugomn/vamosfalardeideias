@@ -1,4 +1,4 @@
-Vamos Falar de ideias
+Vamos Falar de Ideias
 ==================
 
 Código fonte do tema do blog Vamos Falar de Ideias.
