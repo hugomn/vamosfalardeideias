@@ -3,7 +3,7 @@
  * Create a massive Google Fonts Listing
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
 */
 
 if ( ! function_exists('listgooglefontoptions') ) {

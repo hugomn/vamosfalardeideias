@@ -1089,8 +1089,8 @@ msgid "Widgets in this area are used on the main sidebar region."
 msgstr "Widgets op dit gebied worden gebruikt op de main-zijbalk regio."
 
 #: ../functions/widgets/widget-featured-posts-simple.php:12
-msgid "GoodInc - Recent Posts"
-msgstr "GoodInc - Recente Berichten"
+msgid "VamosFalar - Recent Posts"
+msgstr "VamosFalar - Recente Berichten"
 
 #: ../functions/widgets/widget-featured-posts-simple.php:75
 #: ../functions/widgets/widget-featured-posts.php:87
@@ -1120,16 +1120,16 @@ msgid "Offset (the number of posts to skip):"
 msgstr "Offset (het aantal berichten om over te slaan):"
 
 #: ../functions/widgets/widget-featured-posts.php:13
-msgid "GoodInc - Recent Posts Slider"
-msgstr "GoodInc - Recente berichten schuifregelaar"
+msgid "VamosFalar - Recent Posts Slider"
+msgstr "VamosFalar - Recente berichten schuifregelaar"
 
 #: ../functions/widgets/widget-flickr.php:14
 msgid "Pulls in images from your Flickr account."
 msgstr "Haalt afbeeldingen van je Flickr-account."
 
 #: ../functions/widgets/widget-flickr.php:16
-msgid "GoodInc - Flickr Stream"
-msgstr "GoodInc - Flickr Stream"
+msgid "VamosFalar - Flickr Stream"
+msgstr "VamosFalar - Flickr Stream"
 
 #: ../functions/widgets/widget-flickr.php:72
 msgid "Flickr ID "
@@ -1140,8 +1140,8 @@ msgid "Number:"
 msgstr "Nummer:"
 
 #: ../functions/widgets/widget-video.php:21
-msgid "GoodInc - Video"
-msgstr "GoodInc - Video"
+msgid "VamosFalar - Video"
+msgstr "VamosFalar - Video"
 
 #: ../functions/widgets/widget-video.php:50
 msgid "Video URL "

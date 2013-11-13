@@ -3,7 +3,7 @@
  * 404.php is used when your server reaches a 404 error page
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 

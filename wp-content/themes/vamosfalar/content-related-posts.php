@@ -3,7 +3,7 @@
  * This file is used for your entries and post media
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 
 // Get the first category of this post

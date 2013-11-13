@@ -3,7 +3,7 @@
  * Function used to load content via AJAX
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 
 

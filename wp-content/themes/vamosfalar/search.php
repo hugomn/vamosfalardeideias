@@ -3,7 +3,7 @@
  * Search.php is used for your search result pages.
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 

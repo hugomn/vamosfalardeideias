@@ -3,7 +3,7 @@
  * Custom pagination functions
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
   
   

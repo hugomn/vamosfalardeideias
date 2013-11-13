@@ -2,7 +2,7 @@
 /**
  * Featured Posts Widget
  *
- * @package GoodInc WordPress Theme
+ * @package VamosFalar WordPress Theme
  * @since 1.0
 */
  
@@ -10,7 +10,7 @@ class wpex_recent_posts_thumb extends WP_Widget {
 	
     /** constructor */
     function wpex_recent_posts_thumb() {
-        parent::WP_Widget(false, $name = __( 'GoodInc - Recent Posts Slider','wpex' ) );
+        parent::WP_Widget(false, $name = __( 'VamosFalar - Recent Posts Slider','wpex' ) );
     }
 
     /** @see WP_Widget::widget */

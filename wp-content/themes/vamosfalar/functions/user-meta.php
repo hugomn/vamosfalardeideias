@@ -4,7 +4,7 @@
  * Enables more fields (twitter,facebook,etc)
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  * @since 1.0
  */
 

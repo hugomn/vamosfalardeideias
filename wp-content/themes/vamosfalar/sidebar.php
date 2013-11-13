@@ -3,7 +3,7 @@
  * Sidebar.php is used to show your sidebar widgets on pages/posts
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 

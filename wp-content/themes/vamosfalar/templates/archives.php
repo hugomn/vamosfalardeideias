@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: Archives
- * @package GoodInc WordPress Theme
+ * @package VamosFalar WordPress Theme
  * @since 1.0
  * @author WPExplorer : http://www.wpexplorer.com
  */

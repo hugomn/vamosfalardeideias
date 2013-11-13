@@ -3,7 +3,7 @@
  * The template for displaying Author bios.
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 

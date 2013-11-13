@@ -3,7 +3,7 @@
  * Outputs custom CSS to the wp_head() hook.
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 
 add_action('wp_head', 'wpex_custom_css');

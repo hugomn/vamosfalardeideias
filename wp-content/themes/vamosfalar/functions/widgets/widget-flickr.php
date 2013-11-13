@@ -2,7 +2,7 @@
 /**
  * Flickr Widget
  *
- * @package GoodInc WordPress Theme
+ * @package VamosFalar WordPress Theme
  * @since 1.0
 */
 class wpex_flickr extends WP_Widget {
@@ -13,7 +13,7 @@ class wpex_flickr extends WP_Widget {
 		$widget_ops = array('classname' => 'flickr_widget',
 							'description' => __( 'Pulls in images from your Flickr account.', 'wpex' ) );
 		// register the widget
-		$this->WP_Widget('wpex_flickr', __( 'GoodInc - Flickr Stream', 'wpex' ), $widget_ops);
+		$this->WP_Widget('wpex_flickr', __( 'VamosFalar - Flickr Stream', 'wpex' ), $widget_ops);
 	
 	}
 	

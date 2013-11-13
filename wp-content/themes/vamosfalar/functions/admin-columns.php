@@ -3,7 +3,7 @@
  * Create Custom Columns for the WP dashboard
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 
  

@@ -2,7 +2,7 @@
 /**
  * Video Widget
  *
- * @package GoodInc WordPress Theme
+ * @package VamosFalar WordPress Theme
  * @since 1.0
 */
 class wpex_video extends WP_Widget {
@@ -18,7 +18,7 @@ class wpex_video extends WP_Widget {
 		
 		
 		// register the widget
-        $this->WP_Widget('wpex_video', __( 'GoodInc - Video', 'wpex' ), $widget_ops);
+        $this->WP_Widget('wpex_video', __( 'VamosFalar - Video', 'wpex' ), $widget_ops);
 	}
 	
 

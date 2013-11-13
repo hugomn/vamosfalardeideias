@@ -3,7 +3,7 @@
  * Date.php is used for date based archives
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 
 get_header(); ?>

@@ -3,7 +3,7 @@
  * Create meta options for the post post type
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
  
 $prefix = 'wpex_';

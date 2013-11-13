@@ -3,7 +3,7 @@
  * This file is used for your quote post format
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 

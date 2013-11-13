@@ -3,7 +3,7 @@
  * Default file for single regular posts.
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 <?php wpex_redirect_link_post_format(); ?>

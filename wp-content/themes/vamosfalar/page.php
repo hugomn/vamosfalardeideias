@@ -3,7 +3,7 @@
  * Page.php is used to render your regular pages.
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 

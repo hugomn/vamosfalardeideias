@@ -3,7 +3,7 @@
  * Index.php is the default template.
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 

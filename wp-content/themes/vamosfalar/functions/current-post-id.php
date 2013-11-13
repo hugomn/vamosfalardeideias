@@ -3,7 +3,7 @@
  * Get current post ID
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  * @since 1.0
  */
 

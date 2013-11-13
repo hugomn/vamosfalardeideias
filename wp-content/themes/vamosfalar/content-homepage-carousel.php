@@ -3,7 +3,7 @@
  * This file is used for the homepage carousel
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 
 // Show homepage carousel if category is defined in the theme panel

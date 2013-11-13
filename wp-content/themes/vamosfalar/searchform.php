@@ -3,7 +3,7 @@
  * Default searchform
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 <form method="get" class="main-searchbar" action="<?php echo home_url( '/' ); ?>">

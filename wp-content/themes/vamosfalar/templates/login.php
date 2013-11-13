@@ -2,7 +2,7 @@
 /**
  * Template Name: Login
  *
- * @package GoodInc WordPress Theme
+ * @package VamosFalar WordPress Theme
  * @since 1.0
  */
 ?>

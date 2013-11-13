@@ -3,7 +3,7 @@
  * Create options for this theme
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 
 add_action( 'init', 'of_options' );

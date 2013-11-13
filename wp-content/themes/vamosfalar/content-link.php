@@ -3,7 +3,7 @@
  * This file is used for your link post format
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?> 
  

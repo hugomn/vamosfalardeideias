@@ -7,7 +7,7 @@
  * wpex_comment() which is located at functions/comments-callback.php
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 
 /*

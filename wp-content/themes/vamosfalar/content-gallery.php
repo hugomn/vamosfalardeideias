@@ -3,7 +3,7 @@
  * This file is used for your gallery post format
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?> 
  

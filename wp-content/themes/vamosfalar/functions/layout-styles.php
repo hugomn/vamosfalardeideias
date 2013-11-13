@@ -3,7 +3,7 @@
  * Adds classes to the body tag for various page/post layout styles
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  * @since 1.0
 */
 
@@ -41,7 +41,7 @@ if ( !function_exists('wpex_body_classes') ) {
  * Used to hide the sidebar when not needed
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  * @since 1.0
 */
 if ( !function_exists('wpex_sidebar_enabled') ) {

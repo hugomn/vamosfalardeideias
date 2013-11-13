@@ -3,7 +3,7 @@
  * Archive.php renders your categories, tags and archive pages
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 

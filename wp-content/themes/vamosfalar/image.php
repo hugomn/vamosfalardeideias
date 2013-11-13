@@ -3,7 +3,7 @@
  * Image.php is used to showcase your image media files.
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 

@@ -3,7 +3,7 @@
  * This file loads the CSS and Javascript used for the theme.
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  * @since 1.0
  */
  

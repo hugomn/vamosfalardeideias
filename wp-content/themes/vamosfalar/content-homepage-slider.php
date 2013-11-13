@@ -3,7 +3,7 @@
  * This file is used for the homepage flexslider
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
  

@@ -3,7 +3,7 @@
  * Author.php loads the author pages with a listing of their posts
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 

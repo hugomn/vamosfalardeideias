@@ -2,14 +2,14 @@
 /**
  * Featured Posts Widget
  *
- * @package GoodInc WordPress Theme
+ * @package VamosFalar WordPress Theme
  * @since 1.0
  */
  
 class wpex_featured_posts_simple extends WP_Widget {
     /** constructor */
     function wpex_featured_posts_simple() {
-        parent::WP_Widget(false, $name = __('GoodInc - Recent Posts','wpex') );
+        parent::WP_Widget(false, $name = __('VamosFalar - Recent Posts','wpex') );
     }
 
     /** @see WP_Widget::widget */

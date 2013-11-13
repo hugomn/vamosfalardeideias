@@ -3,7 +3,7 @@
  * Footer.php outputs the code for footer hooks and closing body/html tags
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 		<div class="clear"></div><!-- /clear any floats -->          

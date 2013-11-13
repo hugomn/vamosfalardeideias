@@ -9,7 +9,7 @@
  * Used as a callback by wp_list_comments() for displaying the comments.
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  * @since 1.0
  */
 

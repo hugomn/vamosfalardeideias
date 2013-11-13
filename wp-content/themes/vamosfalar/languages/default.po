@@ -1075,7 +1075,7 @@ msgid "Widgets in this area are used on the main sidebar region."
 msgstr ""
 
 #: ../functions/widgets/widget-featured-posts-simple.php:12
-msgid "GoodInc - Recent Posts"
+msgid "VamosFalar - Recent Posts"
 msgstr ""
 
 #: ../functions/widgets/widget-featured-posts-simple.php:83
@@ -1106,7 +1106,7 @@ msgid "Offset (the number of posts to skip):"
 msgstr ""
 
 #: ../functions/widgets/widget-featured-posts.php:13
-msgid "GoodInc - Recent Posts Slider"
+msgid "VamosFalar - Recent Posts Slider"
 msgstr ""
 
 #: ../functions/widgets/widget-flickr.php:14
@@ -1114,7 +1114,7 @@ msgid "Pulls in images from your Flickr account."
 msgstr ""
 
 #: ../functions/widgets/widget-flickr.php:16
-msgid "GoodInc - Flickr Stream"
+msgid "VamosFalar - Flickr Stream"
 msgstr ""
 
 #: ../functions/widgets/widget-flickr.php:72
@@ -1126,7 +1126,7 @@ msgid "Number:"
 msgstr ""
 
 #: ../functions/widgets/widget-video.php:21
-msgid "GoodInc - Video"
+msgid "VamosFalar - Video"
 msgstr ""
 
 #: ../functions/widgets/widget-video.php:50

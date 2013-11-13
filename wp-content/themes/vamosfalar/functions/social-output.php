@@ -3,7 +3,7 @@
  * Display your social icons
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  * @since 1.0
  */
   

@@ -4,7 +4,7 @@
  * of your template files. It's a very important file that should never be deleted.
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  */
 ?>
 <!DOCTYPE html>

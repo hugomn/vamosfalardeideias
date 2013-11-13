@@ -1,7 +1,7 @@
 <?php
 /**
  * This file is used for the homepage carousel
- * @package GoodInc WordPress Theme
+ * @package VamosFalar WordPress Theme
  * @since 1.0
  * @author WPExplorer : http://www.wpexplorer.com
  */

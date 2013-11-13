@@ -3,7 +3,7 @@
  * Creates a function for your featured image sizes which can be altered via your child theme
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  * @since 1.0
  */
  

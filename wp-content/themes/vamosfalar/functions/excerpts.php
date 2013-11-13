@@ -6,7 +6,7 @@
  * Learn more at http://codex.wordpress.org/Function_Reference/wp_trim_words
  *
  * @package WordPress
- * @subpackage GoodInc
+ * @subpackage VamosFalar
  * @since 1.0
 */
 if ( !function_exists( 'wpex_excerpt' ) ) :
