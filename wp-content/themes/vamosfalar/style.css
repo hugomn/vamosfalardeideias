@@ -141,8 +141,13 @@ body.error404 #page-heading p { font-size: 21px; margin-top: 20px; }
 #archive-post-count { font-size: 16px; position: absolute; right: 30px; top: 50%; height: 40px; line-height: 40px; margin-top: -20px; background: #f26c4f; color: #fff; font-weight: 400; padding: 0 20px; }
 /* Top Bar & Logo
 -------------------------------------------------------------- */
-#top-bar-wrap { background: #373737 }
-#top-bar-inner { position: relative; min-height: 65px; }
+#top-bar-wrap { background: #373737 url(images/top-bar-bg.jpg) 50% 0 no-repeat; }
+#top-bar-inner { position: relative; min-height: 125px; }
+#logo {
+    position: absolute;
+    z-index: 6;
+    margin: 10px 0 0 12px;
+}
 #logo img { display: block; float: left; }
 #logo h2 { font-size: 24px; font-weight: 400; line-height: 1em; margin: 0; height: 65px; line-height: 65px; }
 #logo h2 a { color: #fff }
