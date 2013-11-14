@@ -81,11 +81,13 @@
             
 			<?php } // if ( get_post_format() ) !== 'quote' ) ?>
             
-            <?php
-            // Comments
-            if ( comments_open() || '0' != get_comments_number() ) { ?>
-                <?php comments_template(); ?>
-            <?php } ?>
+            <div id="comments" class="boxed-container">
+                <?php
+                // Comments
+                if ( comments_open() || '0' != get_comments_number() ) { ?>
+                    <?php comments_template(); ?>
+                <?php } ?>
+            </div>
             
             <nav id="single-nav" class="clr">
             	<div id="single-nav-inner" class="clr">
@@ -93,8 +95,8 @@
 				// Set arrows depending on screen direction
 				$wpex_arrow_prev = is_rtl() ? 'icon-long-arrow-right' : 'icon-long-arrow-left';
 				$wpex_arrow_next = is_rtl() ? 'icon-long-arrow-left' : 'icon-long-arrow-right'; ?>
-                <?php next_post_link('<div class="single-nav-left span_12 col col-1 clr">%link</div>', '<span><i class="'. $wpex_arrow_prev .'"></i>'. __( 'Previous', 'wpex' ) .'</span>%title', false); ?>
-                <?php previous_post_link('<div class="single-nav-right span_12 col clr">%link</div>', '<span>'. __( 'Next', 'wpex' ) .'<i class="'. $wpex_arrow_next .'"></i></span>%title', false); ?>
+                <?php next_post_link('<div class="single-nav-left span_12 col col-1 clr">%link</div>', '<span><i class="'. $wpex_arrow_prev .'"></i>'. __( 'Anterior', 'wpex' ) .'</span>%title', false); ?>
+                <?php previous_post_link('<div class="single-nav-right span_12 col clr">%link</div>', '<span>'. __( 'Próximo', 'wpex' ) .'<i class="'. $wpex_arrow_next .'"></i></span>%title', false); ?>
                 </div><!-- #single-nav-inner -->
             </nav><!-- #single-nav -->
                 

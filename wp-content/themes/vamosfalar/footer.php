@@ -17,7 +17,7 @@
             	 <?php
                 // Footer Logo
                 if( wpex_get_data( 'custom_footer_logo' ) !== '' ) { ?>
-                    <a href="<?php echo home_url(); ?>/" title="<?php get_bloginfo( 'name' ); ?>" rel="home"><img src="<?php echo wpex_get_data( 'custom_footer_logo' ); ?>" alt="<?php get_bloginfo( 'name' ) ?>" /></a><img src="http://i.imgur.com/KkEsNcS.jpg">
+                    <a href="<?php echo home_url(); ?>/" title="<?php get_bloginfo( 'name' ); ?>" rel="home"><img src="<?php echo wpex_get_data( 'custom_footer_logo' ); ?>" alt="<?php get_bloginfo( 'name' ) ?>" /></a>
             	<?php } ?>
             </div><!-- #footer-logo -->
 			<?php
