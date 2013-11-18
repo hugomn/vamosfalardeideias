@@ -19,7 +19,7 @@ if ( !function_exists('wpex_display_social') ) {
 		<?php }
 		// Facebook
 		if( wpex_get_data( 'facebook' ) !== '' ) { ?>
-			<li><a href="<?php echo wpex_get_data( 'facebook' ); ?>" title="<?php _e( 'Facebook Us' , 'wpex' ); ?>" id="header-social-facebook"><img src="<?php echo $wpex_social_icons_location; ?>/facebook.png" alt="Facebook" /></a></li>
+			<li><a href="<?php echo wpex_get_data( 'facebook' ); ?>" title="<?php _e( 'Facebook' , 'wpex' ); ?>" id="header-social-facebook"><img src="<?php echo $wpex_social_icons_location; ?>/facebook.png" alt="Facebook" /></a></li>
 		<?php }
 		// Pinterest
 		if( wpex_get_data( 'pinterest' ) !== '' ) { ?>
@@ -67,7 +67,7 @@ if ( !function_exists('wpex_display_social') ) {
         <?php }
 		// RSS
 		if( wpex_get_data( 'rss' ) !== '' ) { ?>
-			<li><a href="<?php echo wpex_get_data( 'rss' ); ?>" title="<?php _e( 'RSS Feed' , 'wpex' ); ?>" id="header-social-rss"><img src="<?php echo $wpex_social_icons_location; ?>/rss.png" alt="RSS" /></a></li>
+			<li><a href="<?php echo wpex_get_data( 'rss' ); ?>" title="<?php _e( 'Feed RSS' , 'wpex' ); ?>" id="header-social-rss"><img src="<?php echo $wpex_social_icons_location; ?>/rss.png" alt="RSS" /></a></li>
 		<?php } 
 	
 	}

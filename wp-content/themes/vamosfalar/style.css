@@ -274,7 +274,7 @@ html[xmlns] .slides { display: block }
 .post-entry { margin-bottom: 25px; position: relative; }
 .post-entry h2 { font-size: 30px; line-height: 1.2em; font-weight: 500; margin: 0 0 30px; color: #707070; }
 .post-entry h2 a { color: #707070 }
-.post-entry h2 a:hover { color: #444 }
+.post-entry h2 a:hover { color: #f26c4f }
 .post-entry-details { background: #fff; padding: 40px; border-bottom: 1px solid #dedede; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 .post-entry-excerpt { font-weight: 300; color: #949494; }
 .post-entry-excerpt p:last-child { margin: 0 }
@@ -555,6 +555,8 @@ span.required { color: #F00 }
 /*footer copy*/
 #footer-copy { margin-top: 30px; color: #7e7e7e7; font-size: 13px; }
 #footer-copy a { color: #fff }
+#footer-right { float: right }
+#footer-right ul li { float: left; margin-left: 35px; }
 /* WordPress Styles
 -------------------------------------------------------------- */
 .sticky { }

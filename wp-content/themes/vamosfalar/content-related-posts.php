@@ -64,7 +64,7 @@ if( $carousel_posts->have_posts() && $carousel_posts->post_count >= 3 ) {
     
     <div id="related-posts" class="clr">
     
-        <h4 id="related-posts-heading"><?php _e( 'Related Articles', 'wpex' ); ?></h4>
+        <h4 id="related-posts-heading"><?php _e( 'Posts relacionados', 'wpex' ); ?></h4>
         
         <section id="posts-carousel-wrap" class="related-posts-carousel clr <?php if ( $carousel_posts->post_count == '3' ) { echo 'no-carousel'; } ?>">
             <div id="posts-carousel-inner" class="container">

@@ -37,6 +37,13 @@
             <?php } else { ?>
                 <?php _e('Copyright','wpex'); ?> <?php echo date('Y'); ?> <a href="<?php echo home_url(); ?>" title="<?php echo get_bloginfo('name'); ?>"><?php echo get_bloginfo('name'); ?></a>
             <?php } ?>
+                <div id="footer-right">
+                    <ul>
+                        <li><a href="/sobre">Sobre</a></li>
+                        <li><a href="/midia-kit">Midia kit</a></li>
+                        <li><a href="/contato">Contato</a></li>
+                    </ul>
+                </div>
         </div><!-- #footer-copy -->       
     </footer><!-- #ooter -->
 </div><!-- #footer-wrap -->
