@@ -159,6 +159,11 @@ body.error404 #page-heading p { font-size: 21px; margin-top: 20px; }
 #header-social li:first-child { margin: 0 }
 #header-social a { display: block; opacity: 0.6; height: 24px; width: 24px; }
 #header-social a:hover { text-decoration: none; opacity: 1; }
+
+.social-container li { display: block; float: left; margin-left: 6px; }
+.social-container li:first-child { margin: 0 }
+.social-container a { display: block; opacity: 0.6; height: 24px; width: 24px; }
+.social-container a:hover { text-decoration: none; opacity: 1; }
 /* Dropdown Styles
 -------------------------------------------------------------- */
 .dropdown-nav { margin: 0; padding: 0; list-style: none; }
@@ -442,6 +447,11 @@ body #sidebar a:hover { color: #000; text-decoration: none; }
 .sidebar-box.widget_text { background: #fff; padding: 30px; border-bottom: 1px solid #d3d3d3; font-size: 13px; }
 #sidebar .sidebar-box.widget_text h6 { font-size: 29px; line-height: 1.25em; }
 .sidebar-box.widget_text:after { display: none }
+/*author widget*/
+#sidebar .sidebar-box.widget_author h6 { font-size: 22px; line-height: 1.25em; }
+.sidebar-box.widget_author { position: relative; }
+.sidebar-box.widget_author .widget_author_avatar { position: relative; margin: 0 0 15px 80px; }
+.sidebar-box.widget_author .widget_author_social { margin-top: 25px }
 /*subscription*/
 #sidebar .jetpack_subscription_widget { padding: 20px 20px 0; border: 1px solid #ccc; box-shadow: 0 0 0 10px #eee; margin: 10px 10px 40px; }
 /*tagcloud*/

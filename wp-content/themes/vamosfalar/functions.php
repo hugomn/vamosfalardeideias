@@ -54,6 +54,7 @@ require_once( get_template_directory() .'/functions/widgets/widget-flickr.php' )
 require_once( get_template_directory() .'/functions/widgets/widget-featured-posts.php' );
 require_once( get_template_directory() .'/functions/widgets/widget-featured-posts-simple.php' );
 require_once( get_template_directory() .'/functions/widgets/widget-author.php' );
+require_once( get_template_directory() .'/functions/widgets/widget-tag.php' );
 
 // Image cropping functions
 require_once( get_template_directory() .'/functions/aqua-resizer.php' );
