@@ -204,7 +204,7 @@ body.error404 #page-heading p { font-size: 21px; margin-top: 20px; }
 /* Header Search
 -------------------------------------------------------------- */
 #header-search { position: absolute; right: 0; top: 50%; margin-top: -70px; }
-#header-search .main-searchbar input[type="search"] { font-size: 12px; width: 230px; float: left; height: 38px; line-height: 38px; border: none; box-shadow: none; padding-top: 0; padding-bottom: 0; border-radius: 0px; }
+#header-search .main-searchbar input[type="search"] { font-size: 12px; width: 260px; float: left; height: 38px; line-height: 38px; border: none; box-shadow: none; padding-top: 0; padding-bottom: 0; border-radius: 0px; }
 /* FlexSlider
 -------------------------------------------------------------- */
 .flexslider { margin: 0; padding: 0; }
