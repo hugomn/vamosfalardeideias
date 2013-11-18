@@ -180,10 +180,11 @@ body.error404 #page-heading p { font-size: 21px; margin-top: 20px; }
 #nav-extend-bg { z-index: 1; height: 70px; background: #474747; width: 50%; position: absolute; left: 50%; top: 0px; }
 #navigation-inner { position: relative; z-index: 5; }
 /*main nav */
-#navigation { height: 70px; position: relative; padding-left: 80px; background: #474747 url("images/nav-pin.png") 34px center no-repeat; }
+#navigation { height: 70px; position: relative; padding-left: 80px; background-color: #474747; float: right; }
 #navigation .nav-main > li { display: block; float: left; background: url("images/nav-divider.png") right center no-repeat; padding-right: 24px; margin-right: 24px; }
+#navigation .nav-main > li:last-child { background-image: none; padding-right: 0px; }
 #navigation .nav-main a { display: block; color: #fff; font-weight: 500; height: 67px; line-height: 67px; font-size: 13px; text-decoration: none; text-align: left; cursor: pointer; border-bottom: 3px solid transparent; }
-#navigation .nav-main > li:hover > a, #navigation .nav-main > li > a:hover, #navigation .nav-main > .current-menu-item > a, #navigation .nav-main > .current-menu-item > a:hover { color: #fff; border-bottom: 3px solid #f26c4f; }
+#navigation .nav-main > li:hover > a, #navigation .nav-main > li > a:hover, #navigation .nav-main > .current-menu-item > a, #navigation .nav-main > .current-menu-item > a:hover { color: #fff; border-bottom: 3px solid #373737; }
 #navigation .nav-main ul { width: 200px; font-size: 11px; font-weight: 400; background: #474747; box-shadow: 0 0 10px rgba(0,0,0,0.3); padding: 20px 0; margin-top: 15px; }
 #navigation .nav-main > li:hover > ul { margin-top: 15px }
 #navigation .nav-main ul:before { content: ""; display: block; position: absolute; top: -8px; left: 20px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 8px solid #474747; }

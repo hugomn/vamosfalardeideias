@@ -65,13 +65,14 @@
 						'walker'			=> new WPEX_Dropdown_Walker_Nav_Menu(),
                     ) ); ?> 
                 </nav><!-- /main-navigation -->
-                <div id="header-search">
+               
+                <!--div id="header-search">
                 	<?php get_search_form(); ?>
-            	</div><!-- #header-search -->
+            	</div--><!-- #header-search -->
                 <?php if( wpex_get_data( 'responsive', '1' ) == '1' ) { ?>
-                    <div id="mobile-search">
+                    <!--div id="mobile-search">
                         <?php get_search_form(); ?>
-                    </div><!-- #mobile-search -->
+                    </div--><!-- #mobile-search -->
                 <?php } ?>
             </div><!-- /container --> 
             <div id="nav-extend-bg"></div>
