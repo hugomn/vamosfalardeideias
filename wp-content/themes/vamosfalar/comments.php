@@ -21,7 +21,7 @@ if ( post_password_required() )
 <div id="comments" class="comments-area clr">
 
 	<?php if ( have_comments() ) : ?>
-		<h2 class="comments-title"><?php comments_number( __('0 Comments', 'wpex' ), __('1 Comment', 'wpex' ), __('% Comments', 'wpex' ) ); ?></h2>
+		<h2 class="comments-title"><?php comments_number( __('0 comentários', 'wpex' ), __('1 comentário', 'wpex' ), __('% comentários', 'wpex' ) ); ?></h2>
 
 		<ol class="comment-list">
 			<?php wp_list_comments( array( 'callback' => 'wpex_comment', 'style' => 'ol' ) ); ?>

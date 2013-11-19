@@ -447,6 +447,7 @@ body #sidebar a:hover { color: #000; text-decoration: none; }
 .sidebar-box.widget_text { background: #fff; padding: 30px; border-bottom: 1px solid #d3d3d3; font-size: 13px; }
 #sidebar .sidebar-box.widget_text h6 { font-size: 29px; line-height: 1.25em; }
 .sidebar-box.widget_text:after { display: none }
+.sidebar-box.widget_text.no-box { padding: 0; border: 0; margin: 0;}
 /*author widget*/
 #sidebar .sidebar-box.widget_author h6 { font-size: 22px; line-height: 1.25em; }
 .sidebar-box.widget_author { position: relative; }

@@ -10,10 +10,10 @@
 <?php get_header(); ?>
 
 <header id="page-heading">
-	<h1 id="archive-title"><?php _e('Search Results For','wpex'); ?> &#8220;<?php the_search_query(); ?>&#8221;</h1>
+	<h1 id="archive-title"><?php _e('Resultados da busca por','wpex'); ?> &#8220;<?php the_search_query(); ?>&#8221;</h1>
     <?php if ( have_posts() ) { ?>
         <div id="archive-post-count">
-           <?php echo $wp_query->found_posts; ?> <?php _e( 'results', 'wpex' ); ?>
+           <?php echo $wp_query->found_posts; ?> <?php _e( 'resultados', 'wpex' ); ?>
         </div><!-- /archive-post-count -->
     <?php } ?>
 </header><!-- #page-heading -->
@@ -39,7 +39,7 @@
 		<?php else : ?>
         
         <div class="boxed-container">
-			<?php _e('There were no results found for that query. Please try again.', 'wpex'); ?>
+			<?php _e('Não foram encontrados resultados para essa busca. Tente novamente.', 'wpex'); ?>
         </div><!-- .entry -->
         
 	<?php endif; ?>

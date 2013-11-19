@@ -60,7 +60,7 @@ if ( is_singular() ) { ?>
             <?php if( comments_open() ) { ?>
             	<div class="post-entry-comments">
                 	<i class="icon-comments"></i>
-					<?php comments_popup_link( __( '0 Comments', 'wpex' ), __( '1 Comment',  'wpex' ), __( '% Comments', 'wpex' ), 'comments-link' ); ?>
+					<?php comments_popup_link( __( '0 comentários', 'wpex' ), __( '1 comentário',  'wpex' ), __( '% comentários', 'wpex' ), 'comments-link' ); ?>
                 </div><!--.post-entry-footer -->
             <?php } ?><!-- .post-entry-comments -->
 		</footer><!-- .post-entry-footer -->

@@ -41,7 +41,7 @@
                             <?php } ?>
                             <li class="seperator">|</li>
                             <?php if( comments_open() && !post_password_required() ) { ?>
-                                <li class="meta-comments comment-scroll"><i class="icon-comments-alt"></i><?php comments_popup_link( __( '0 Comments', 'wpex' ), __( '1 Comment',  'wpex' ), __( '% Comments', 'wpex' ), 'comments-link' ); ?></li>
+                                <li class="meta-comments comment-scroll"><i class="icon-comments-alt"></i><?php comments_popup_link( __( '0 comentários', 'wpex' ), __( '1 comentários',  'wpex' ), __( '% comentários', 'wpex' ), 'comments-link' ); ?></li>
                             <?php } ?>
                         </ul><!-- .meta --> 
                         <h1><?php the_title(); ?></h1>

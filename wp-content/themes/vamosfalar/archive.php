@@ -12,7 +12,7 @@
 <header id="page-heading" class="archive-heading">
     <h1><?php single_term_title(); ?></h1> 
     <div id="archive-post-count">
-       <?php echo $wp_query->found_posts; ?> <?php _e( 'articles', 'wpex' ); ?>
+       <?php echo $wp_query->found_posts; ?> <?php _e( 'posts', 'wpex' ); ?>
     </div><!-- #archive-post-count -->
 </header><!-- #page-heading -->
 

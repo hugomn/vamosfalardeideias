@@ -12,8 +12,8 @@
 <div id="post">
 
     <div id="page-heading">
-        <h1><?php _e( '404 Error', 'wpex' ); ?></h1>
-        <p><?php _e( 'WP LOC KE R .CO M - Unfortunately the page you were trying to access does not exist.', 'wpex' ); ?></p>
+        <h1><?php _e( 'Erro 404', 'wpex' ); ?></h1>
+        <p><?php _e( 'Infelizmente a página que você tentou acessar não existe. Nos desculpe. =(', 'wpex' ); ?></p>
     </div><!-- #page-heading -->
 
 </div><!-- #post -->
